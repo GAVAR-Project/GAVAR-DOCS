@@ -11,14 +11,12 @@
             "id": "f9204868713946dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "file": "images/gavar-logo.png"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "gavar-logo"
             }
           }
         ]
@@ -179,12 +177,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5348a52afdbb1cf7",
+  "active": "f9204868713946dd",
   "lastOpenFiles": [
+    "ethics.md",
+    "index.md",
+    "omega.md",
+    "training.md",
+    "core.md",
     "images/favicon.ico",
     "images/gavar-logo.png",
-    "images",
-    "ethics.md",
-    "core.md"
+    "images"
   ]
 }
