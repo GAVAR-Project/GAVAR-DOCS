@@ -11,12 +11,14 @@
             "id": "f9204868713946dd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/gavar-logo.png"
+                "file": "ethics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "gavar-logo"
+              "icon": "lucide-file",
+              "title": "ethics"
             }
           }
         ]
@@ -179,13 +181,13 @@
   },
   "active": "f9204868713946dd",
   "lastOpenFiles": [
+    "core.md",
+    "images/gavar-logo.png",
     "ethics.md",
     "index.md",
     "omega.md",
     "training.md",
-    "core.md",
     "images/favicon.ico",
-    "images/gavar-logo.png",
     "images"
   ]
 }
